@@ -15,9 +15,12 @@ Make a semantic navbar i. e using semantic elements ex:- nav, ul, a.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Semantic Navbar and Videos</title>
+     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<!-- the entire body must be written by student -->
+    <script type="text/javascript" src="./script.js">
+    </script>
     <nav>
         <ul>
             <li><a href="https://course.acciojob.com/modules">Home</a></li>
@@ -36,7 +39,6 @@ Make a semantic navbar i. e using semantic elements ex:- nav, ul, a.
             <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4">
            </video>
       
-     
-
+   
 </body>
 </html>
