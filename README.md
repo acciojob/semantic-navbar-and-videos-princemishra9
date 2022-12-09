@@ -12,3 +12,31 @@ Make a semantic navbar i. e using semantic elements ex:- nav, ul, a.
  
 
  Add the heading "3 random videos" above the videos.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic Navbar and Videos</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="https://course.acciojob.com/modules">Home</a></li>
+            <li><a href="https://blog.hubspot.com/hs-fs/hubfs/about-cover.png?width=305&name=about-cover.png">About us</a></li>
+            <li><a href="https://cdn.searchenginejournal.com/wp-content/uploads/2020/08/contact-us-pages-sej-5f63d4f927b04-760x400.png">contact us</a></li>
+        </ul>
+    </nav>
+            <h3>3 random videos</h3>
+           <video height="200px" width="400px" controls>
+            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4">        
+           </video>
+           <video height="200px" width="400px" controls>
+            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4">
+           </video>
+           <video height="200px" width="400px" controls>
+            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4">
+           </video>
+      
+     
+
+</body>
+</html>
